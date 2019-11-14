@@ -1,0 +1,66 @@
+/*
+body {
+  margin: 200;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  font-stretch: extra-expanded;
+  color: rgb(22, 15, 15);
+  animation-play-state: running;
+  animation-fill-mode: backwards;
+  animation-duration: inherit;
+  box-sizing: border-box;
+  background-color: rgb(247, 247, 247);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.button1 {
+  color: rgb(243, 97, 97);
+  block-size: 100px;
+  text-emphasis: none;
+  font-stretch: wider;
+  animation-play-state: running;
+}
+.header {
+  list-style: none;
+  margin: 0;
+
+  background: deepskyblue;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-flex: row wrap;
+  justify-content: flex-end;
+}
+
+.navigation a {
+  text-decoration-style: none;
+  display: block;
+  padding: 1em;
+  color: white;
+}
+.navigation a:hover {
+  background: darken(deepskyblue, 2%);
+}
+.App-intro {
+  color: blueviolet;
+}
+.description {
+  color: blue;
+}
+.jina {
+  color: brown;
+  text-decoration-style: solid;
+  lighting-color: black;
+}
+*/
+
